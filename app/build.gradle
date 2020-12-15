@@ -47,8 +47,5 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.9.0'
     kapt 'com.github.bumptech.glide:compiler:4.9.0'
 
-    implementation 'com.github.penfeizhou.android.animation:apng:2.4.2'
-    implementation 'com.github.penfeizhou.android.animation:awebp:2.4.2'
-    implementation 'com.github.penfeizhou.android.animation:awebpencoder:2.4.2'
     implementation 'com.github.penfeizhou.android.animation:glide-plugin:2.4.2'
 }
